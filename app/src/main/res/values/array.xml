@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="goodsTypeItems">
+        <item>Furniture</item>
+        <item>Dry Goods</item>
+        <item>Foods</item>
+        <item>Building Material</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="vehicleTypeItems">
+        <item>Truck</item>
+        <item>Van</item>
+        <item>Refrigerated Truck</item>
+        <item>Mini Truck</item>
+        <item>Other</item>
+    </string-array>
+</resources>
